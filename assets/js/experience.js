@@ -12,6 +12,21 @@ const exp = [
     time: "(May, 2020 - present)",
     desp: "<li>In which internship I have learned to make best UI </li> <li>To learned lots of bakend coding in java like authentication as well as firebase management.</li>",
   },
+  {
+    title: "NSS District Camp 2019-20",
+    cardImage: "assets/images/experience-page/Nss.png",
+    place: "Dhablarai village Sehore madhya pradesh",
+    time: "(janurary, 2020 -(7 days))",
+    desp: "<li>This is non profit organisation,In which </li> <li>We are supporting rural families, creating awareness as well as social work.</li>",
+  },
+  {
+    title: "Filo tutor",
+    cardImage: "assets/images/experience-page/filo.png",
+    place: "work from home",
+    time: "(March, 2022 - present)",
+    desp: "<li>This application is great for teaching as well as learning</li> <li>Here I am teaching iit mains and class 12th subject in online mode.</li>",
+  },
+  
   /*{
     title: "Student Developer",
     cardImage: "assets/images/experience-page/gsoc.png",
@@ -64,18 +79,19 @@ document.addEventListener("DOMContentLoaded", showCards2);
 /*const volunteership = document.querySelector(".volunteership");
 const volunteershipcards = [
   {
-    title: "GirlScript Summer Of Code 2020",
-    cardImage: "assets/images/experience-page/1.jpg",
+    title: "Nationl Service Scheme District Camp 2009-20",
+    cardImage: "assets/images/experience-page/Nss.png",
     description:
-      "Responsible for handling the projects GirlScript App and GirlScript Website Boilerplate.",
+      "This is not profit organisation to support rular background people and making awarness as well do social works",
   },
   {
-    title: "StudentCode-in 2020",
-    cardImage: "assets/images/experience-page/2.jpg",
+    title: "Filo Tutor",
+    cardImage: "assets/images/experience-page/filo.png",
     description:
       "Responsible for handling open source contributions for the project Awesome Developer Portfolio.",
   },
-  {
+
+ /* {
     title: "PClub Summer Of Code 2020",
     cardImage: "assets/images/experience-page/3.jpg",
     description:
