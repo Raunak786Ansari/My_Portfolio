@@ -6,25 +6,46 @@ AOS.init();
 const experiencecards = document.querySelector(".experience-cards");
 const exp = [
   {
-    title: "Android Development Intern",
-    cardImage: "assets/images/experience-page/android.jpg",
-    place: "Home",
-    time: "(May, 2020 - present)",
-    desp: "<li>In which internship I have learned to make best UI </li> <li>To learned lots of bakend coding in java like authentication as well as firebase management.</li>",
+    title: "Future Ready Talent Internship(Ongoing...)",
+    cardImage: "assets/images/experience-page/microsoft_logo.png",
+    place: "@Microsoft & future skillPrime",
+    time: "(1 April,022 - 15 June,022 )",
+    desp: "<li>In which we are learning lost of Microsoft Azrue corses  and make lots of practices coures. </li> <li>This is 9 week Virtual internship programme where we have to perform self learning module,taking industry session,project snyopsis and then submit the project that is based on the azure technology.</li>",
+  },
+  {
+    title: "Android Development Internship",
+    cardImage: "assets/images/experience-page/Oasis_internship_certificate.png",
+    place: "@Oasis InfoByte",
+    time: "(1 May,022 - 31 May,022 )",
+    desp: "<li>In which internship I have learned to make best UI </li> <li>To learned lots of bakend coding in java like authentication as well as firebase management and make three task -1)basic calculator app 2)Stop watch app 3)Unit convertor app.</li>",
   },
   {
     title: "NSS District Camp 2019-20",
     cardImage: "assets/images/experience-page/Nss.png",
-    place: "Dhablarai village Sehore madhya pradesh",
+    place: "@Dhablarai village Sehore madhya pradesh",
     time: "(janurary, 2020 -(7 days))",
     desp: "<li>This is non profit organisation,In which </li> <li>We are supporting rural families, creating awareness as well as social work.</li>",
   },
   {
     title: "Filo tutor",
     cardImage: "assets/images/experience-page/filo.png",
-    place: "work from home",
+    place: "@Filo Edutech pvt Ltd.",
     time: "(March, 2022 - present)",
     desp: "<li>This application is great for teaching as well as learning</li> <li>Here I am teaching iit mains and class 12th subject in online mode.</li>",
+  },
+  {
+    title: "Internshala Student Partner(ISP'22)",
+    cardImage: "assets/images/experience-page/ISP_22_certificate.png",
+    place: "@INTERNSHALA",
+    time: "(July,021 - Aug,021)",
+    desp: "<li>In which creating awareness of internship and job with internshala</li> <li>Making leadership skills by organising teams and promoting internshala.</li>",
+  },
+  {
+    title: "Campus Ambassdor",
+    cardImage: "assets/images/experience-page/acmegrade_campus_ambassdor.png",
+    place: "@Acmegrade",
+    time: "(May,022 - June,022)",
+    desp: "<li>In which we are Promoting acmegrade pvt Ltd. in our university for internship and varoius job oppurtunities. </li> <li>This is the great experience during the 1 month journey.</li>",
   },
   
   /*{
