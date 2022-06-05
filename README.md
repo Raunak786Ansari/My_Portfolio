@@ -1,5 +1,3 @@
-![Awesome Portfolio Website](./readme_assets/banner_apw.png)
-
 <div align="center">
 
 </div>
